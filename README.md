@@ -20,3 +20,7 @@
 
 #### 网络收集开源 如有侵犯版权立即删除
 
+#### emby-happy
+```bash
+wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/Solmonz/Sam-Emby/main/emby-happy.sh && chmod 777 emby-happy.sh && bash emby-happy.sh
+```
